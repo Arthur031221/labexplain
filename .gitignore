@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+eval/synthetic/
+eval/results.json
+*.pdf
+!demo/*.pdf
+.env
+.failover-lock
