@@ -10,6 +10,8 @@ In a local check, labexplain assigned the planted low, in-range, or high label t
 
 ![CLI demo using a fictional report](demo/demo.gif)
 
+![Web upload and result pages using the fictional report](demo/before-after.png)
+
 ## Why
 
 A lab report can show many abbreviations and narrow reference intervals. It is easy to miss a flag or compare a value in the wrong unit. labexplain extracts rows locally, keeps the report's own printed interval when it can read one, and shows where any fallback interval came from. It does not interpret a group of results as a diagnosis.
