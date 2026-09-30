@@ -102,6 +102,12 @@ This comparison describes the public project descriptions reviewed for this rele
 - PDF and CSV exports include extracted report data. Store them as you would store the original report.
 - The web upload limit is 10 MB per file.
 
+## Related projects
+
+- [cardsmith](https://github.com/Arthur031221/cardsmith): Same local-first shape: a document in, structured study material out.
+- [papercompass](https://github.com/Arthur031221/papercompass): Another offline reader, recommendations instead of lab values, same no-cloud approach.
+- [receiptwise](https://github.com/Arthur031221/receiptwise): Reads a different kind of document locally, a receipt instead of a lab report, a similar OCR pipeline.
+
 ## Contributing and license
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for development instructions. MIT license, [LICENSE](LICENSE).
